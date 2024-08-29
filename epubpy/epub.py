@@ -1,8 +1,9 @@
 from pathlib import Path
 from logging import getLogger
+from bs4 import BeautifulSoup
 
 from .content import Manifest, Metadata, Spine, get_opf_path, NamespacedDict
-from .items import Item, ItemRef
+from .items import Item, ItemRef, ItemTypes
 
 import zipfile as zf
 
@@ -43,6 +44,19 @@ class EpubBook:
                     items.append(it)
                     break   # There is a single match so break out of the first loop
         return items
+
+    def to_bs4(self) -> list[BeautifulSoup]:
+        """ Convert list of Item to bs4 representations. Filters only Document items """
+
+        items = self.get_spine_items()
+
+        contents = []
+
+        for it in items:
+            if it.type == ItemTypes.DOCUMENT:
+                contents.append(it.get_content())  # returns bs4 content
+
+        return contents
 
 
 def read_epub(file_path: str | Path, extract_to: str = "unzipped") -> EpubBook:

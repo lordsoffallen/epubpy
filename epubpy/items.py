@@ -73,11 +73,11 @@ class Item:
         content = self.parse_html(**kwargs)
         return content
 
-    def parse_html(self, parser: str = 'lxml', **kwargs):
+    def parse_html(self, features: str = 'lxml', **kwargs):
 
         # Read html from the file
         with open(self.filepath, "r") as f:
-            bs = BeautifulSoup(f, parser=parser)
+            bs = BeautifulSoup(f, features=features)
 
         return bs
 
