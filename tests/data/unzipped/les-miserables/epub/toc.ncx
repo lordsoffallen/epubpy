@@ -1,0 +1,2567 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en-US">
+	<head>
+		<meta content="url:https://standardebooks.org/ebooks/victor-hugo/les-miserables/isabel-f-hapgood" name="dtb:uid"/>
+	</head>
+	<docTitle>
+		<text>Table of Contents</text>
+	</docTitle>
+	<navMap id="navmap">
+		<navPoint id="navpoint-1" playOrder="1">
+			<navLabel>
+				<text>Titlepage</text>
+			</navLabel>
+			<content src="text/titlepage.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-2" playOrder="2">
+			<navLabel>
+				<text>Imprint</text>
+			</navLabel>
+			<content src="text/imprint.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-3" playOrder="3">
+			<navLabel>
+				<text>Preface</text>
+			</navLabel>
+			<content src="text/preface.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-4" playOrder="4">
+			<navLabel>
+				<text>Les Misérables</text>
+			</navLabel>
+			<content src="text/halftitlepage.xhtml"/>
+			<navPoint id="navpoint-5" playOrder="5">
+				<navLabel>
+					<text>Volume I: Fantine</text>
+				</navLabel>
+				<content src="text/volume-1.xhtml"/>
+				<navPoint id="navpoint-6" playOrder="6">
+					<navLabel>
+						<text>Book I: A Just Man</text>
+					</navLabel>
+					<content src="text/book-1-1.xhtml"/>
+					<navPoint id="navpoint-7" playOrder="7">
+						<navLabel>
+							<text>I: M. Myriel</text>
+						</navLabel>
+						<content src="text/chapter-1-1-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-8" playOrder="8">
+						<navLabel>
+							<text>II: M. Myriel Becomes M. Welcome</text>
+						</navLabel>
+						<content src="text/chapter-1-1-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-9" playOrder="9">
+						<navLabel>
+							<text>III: A Hard Bishopric for a Good Bishop</text>
+						</navLabel>
+						<content src="text/chapter-1-1-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-10" playOrder="10">
+						<navLabel>
+							<text>IV: Works Corresponding to Words</text>
+						</navLabel>
+						<content src="text/chapter-1-1-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-11" playOrder="11">
+						<navLabel>
+							<text>V: Monseigneur Bienvenu Made His Cassocks Last Too Long</text>
+						</navLabel>
+						<content src="text/chapter-1-1-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-12" playOrder="12">
+						<navLabel>
+							<text>VI: Who Guarded His House for Him</text>
+						</navLabel>
+						<content src="text/chapter-1-1-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-13" playOrder="13">
+						<navLabel>
+							<text>VII: Cravatte</text>
+						</navLabel>
+						<content src="text/chapter-1-1-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-14" playOrder="14">
+						<navLabel>
+							<text>VIII: Philosophy After Drinking</text>
+						</navLabel>
+						<content src="text/chapter-1-1-8.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-15" playOrder="15">
+						<navLabel>
+							<text>IX: The Brother as Depicted by the Sister</text>
+						</navLabel>
+						<content src="text/chapter-1-1-9.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-16" playOrder="16">
+						<navLabel>
+							<text>X: The Bishop in the Presence of an Unknown Light</text>
+						</navLabel>
+						<content src="text/chapter-1-1-10.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-17" playOrder="17">
+						<navLabel>
+							<text>XI: A Restriction</text>
+						</navLabel>
+						<content src="text/chapter-1-1-11.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-18" playOrder="18">
+						<navLabel>
+							<text>XII: The Solitude of Monseigneur Welcome</text>
+						</navLabel>
+						<content src="text/chapter-1-1-12.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-19" playOrder="19">
+						<navLabel>
+							<text>XIII: What He Believed</text>
+						</navLabel>
+						<content src="text/chapter-1-1-13.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-20" playOrder="20">
+						<navLabel>
+							<text>XIV: What He Thought</text>
+						</navLabel>
+						<content src="text/chapter-1-1-14.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-21" playOrder="21">
+					<navLabel>
+						<text>Book II: The Fall</text>
+					</navLabel>
+					<content src="text/book-1-2.xhtml"/>
+					<navPoint id="navpoint-22" playOrder="22">
+						<navLabel>
+							<text>I: The Evening of a Day of Walking</text>
+						</navLabel>
+						<content src="text/chapter-1-2-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-23" playOrder="23">
+						<navLabel>
+							<text>II: Prudence Counselled to Wisdom</text>
+						</navLabel>
+						<content src="text/chapter-1-2-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-24" playOrder="24">
+						<navLabel>
+							<text>III: The Heroism of Passive Obedience</text>
+						</navLabel>
+						<content src="text/chapter-1-2-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-25" playOrder="25">
+						<navLabel>
+							<text>IV: Details Concerning the Cheese-Dairies of Pontarlier</text>
+						</navLabel>
+						<content src="text/chapter-1-2-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-26" playOrder="26">
+						<navLabel>
+							<text>V: Tranquillity</text>
+						</navLabel>
+						<content src="text/chapter-1-2-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-27" playOrder="27">
+						<navLabel>
+							<text>VI: Jean Valjean</text>
+						</navLabel>
+						<content src="text/chapter-1-2-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-28" playOrder="28">
+						<navLabel>
+							<text>VII: The Interior of Despair</text>
+						</navLabel>
+						<content src="text/chapter-1-2-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-29" playOrder="29">
+						<navLabel>
+							<text>VIII: Billows and Shadows</text>
+						</navLabel>
+						<content src="text/chapter-1-2-8.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-30" playOrder="30">
+						<navLabel>
+							<text>IX: New Troubles</text>
+						</navLabel>
+						<content src="text/chapter-1-2-9.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-31" playOrder="31">
+						<navLabel>
+							<text>X: The Man Aroused</text>
+						</navLabel>
+						<content src="text/chapter-1-2-10.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-32" playOrder="32">
+						<navLabel>
+							<text>XI: What He Does</text>
+						</navLabel>
+						<content src="text/chapter-1-2-11.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-33" playOrder="33">
+						<navLabel>
+							<text>XII: The Bishop Works</text>
+						</navLabel>
+						<content src="text/chapter-1-2-12.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-34" playOrder="34">
+						<navLabel>
+							<text>XIII: Little Gervais</text>
+						</navLabel>
+						<content src="text/chapter-1-2-13.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-35" playOrder="35">
+					<navLabel>
+						<text>Book III: In the Year 1817</text>
+					</navLabel>
+					<content src="text/book-1-3.xhtml"/>
+					<navPoint id="navpoint-36" playOrder="36">
+						<navLabel>
+							<text>I: The Year 1817</text>
+						</navLabel>
+						<content src="text/chapter-1-3-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-37" playOrder="37">
+						<navLabel>
+							<text>II: A Double Quartette</text>
+						</navLabel>
+						<content src="text/chapter-1-3-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-38" playOrder="38">
+						<navLabel>
+							<text>III: Four and Four</text>
+						</navLabel>
+						<content src="text/chapter-1-3-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-39" playOrder="39">
+						<navLabel>
+							<text>IV: Tholomyès Is So Merry That He Sings a Spanish Ditty</text>
+						</navLabel>
+						<content src="text/chapter-1-3-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-40" playOrder="40">
+						<navLabel>
+							<text>V: At Bombarda’s</text>
+						</navLabel>
+						<content src="text/chapter-1-3-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-41" playOrder="41">
+						<navLabel>
+							<text>VI: A Chapter in Which They Adore Each Other</text>
+						</navLabel>
+						<content src="text/chapter-1-3-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-42" playOrder="42">
+						<navLabel>
+							<text>VII: The Wisdom of Tholomyès</text>
+						</navLabel>
+						<content src="text/chapter-1-3-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-43" playOrder="43">
+						<navLabel>
+							<text>VIII: The Death of a Horse</text>
+						</navLabel>
+						<content src="text/chapter-1-3-8.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-44" playOrder="44">
+						<navLabel>
+							<text>IX: A Merry End to Mirth</text>
+						</navLabel>
+						<content src="text/chapter-1-3-9.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-45" playOrder="45">
+					<navLabel>
+						<text>Book IV: To Confide Is Sometimes to Deliver Into a Person’s Power</text>
+					</navLabel>
+					<content src="text/book-1-4.xhtml"/>
+					<navPoint id="navpoint-46" playOrder="46">
+						<navLabel>
+							<text>I: One Mother Meets Another Mother</text>
+						</navLabel>
+						<content src="text/chapter-1-4-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-47" playOrder="47">
+						<navLabel>
+							<text>II: First Sketch of Two Unprepossessing Figures</text>
+						</navLabel>
+						<content src="text/chapter-1-4-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-48" playOrder="48">
+						<navLabel>
+							<text>III: The Lark</text>
+						</navLabel>
+						<content src="text/chapter-1-4-3.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-49" playOrder="49">
+					<navLabel>
+						<text>Book V: The Descent</text>
+					</navLabel>
+					<content src="text/book-1-5.xhtml"/>
+					<navPoint id="navpoint-50" playOrder="50">
+						<navLabel>
+							<text>I: The History of a Progress in Black Glass Trinkets</text>
+						</navLabel>
+						<content src="text/chapter-1-5-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-51" playOrder="51">
+						<navLabel>
+							<text>II: Madeleine</text>
+						</navLabel>
+						<content src="text/chapter-1-5-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-52" playOrder="52">
+						<navLabel>
+							<text>III: Sums Deposited with Laffitte</text>
+						</navLabel>
+						<content src="text/chapter-1-5-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-53" playOrder="53">
+						<navLabel>
+							<text>IV: M. Madeleine in Mourning</text>
+						</navLabel>
+						<content src="text/chapter-1-5-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-54" playOrder="54">
+						<navLabel>
+							<text>V: Vague Flashes on the Horizon</text>
+						</navLabel>
+						<content src="text/chapter-1-5-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-55" playOrder="55">
+						<navLabel>
+							<text>VI: Father Fauchelevent</text>
+						</navLabel>
+						<content src="text/chapter-1-5-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-56" playOrder="56">
+						<navLabel>
+							<text>VII: Fauchelevent Becomes a Gardener in Paris</text>
+						</navLabel>
+						<content src="text/chapter-1-5-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-57" playOrder="57">
+						<navLabel>
+							<text>VIII: Madame Victurnien Expends Thirty Francs on Morality</text>
+						</navLabel>
+						<content src="text/chapter-1-5-8.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-58" playOrder="58">
+						<navLabel>
+							<text>IX: Madame Victurnien’s Success</text>
+						</navLabel>
+						<content src="text/chapter-1-5-9.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-59" playOrder="59">
+						<navLabel>
+							<text>X: Result of the Success</text>
+						</navLabel>
+						<content src="text/chapter-1-5-10.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-60" playOrder="60">
+						<navLabel>
+							<text>XI: Christus Nos Liberavit</text>
+						</navLabel>
+						<content src="text/chapter-1-5-11.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-61" playOrder="61">
+						<navLabel>
+							<text>XII: M. Bamatabois’s Inactivity</text>
+						</navLabel>
+						<content src="text/chapter-1-5-12.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-62" playOrder="62">
+						<navLabel>
+							<text>XIII: The Solution of Some Questions Connected with the Municipal Police</text>
+						</navLabel>
+						<content src="text/chapter-1-5-13.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-63" playOrder="63">
+					<navLabel>
+						<text>Book VI: Javert</text>
+					</navLabel>
+					<content src="text/book-1-6.xhtml"/>
+					<navPoint id="navpoint-64" playOrder="64">
+						<navLabel>
+							<text>I: The Beginning of Repose</text>
+						</navLabel>
+						<content src="text/chapter-1-6-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-65" playOrder="65">
+						<navLabel>
+							<text>II: How Jean May Become Champ</text>
+						</navLabel>
+						<content src="text/chapter-1-6-2.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-66" playOrder="66">
+					<navLabel>
+						<text>Book VII: The Champmathieu Affair</text>
+					</navLabel>
+					<content src="text/book-1-7.xhtml"/>
+					<navPoint id="navpoint-67" playOrder="67">
+						<navLabel>
+							<text>I: Sister Simplice</text>
+						</navLabel>
+						<content src="text/chapter-1-7-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-68" playOrder="68">
+						<navLabel>
+							<text>II: The Perspicacity of Master Scaufflaire</text>
+						</navLabel>
+						<content src="text/chapter-1-7-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-69" playOrder="69">
+						<navLabel>
+							<text>III: A Tempest in a Skull</text>
+						</navLabel>
+						<content src="text/chapter-1-7-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-70" playOrder="70">
+						<navLabel>
+							<text>IV: Forms Assumed by Suffering During Sleep</text>
+						</navLabel>
+						<content src="text/chapter-1-7-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-71" playOrder="71">
+						<navLabel>
+							<text>V: Hindrances</text>
+						</navLabel>
+						<content src="text/chapter-1-7-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-72" playOrder="72">
+						<navLabel>
+							<text>VI: Sister Simplice Put to the Proof</text>
+						</navLabel>
+						<content src="text/chapter-1-7-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-73" playOrder="73">
+						<navLabel>
+							<text>VII: The Traveller on His Arrival Takes Precautions for Departure</text>
+						</navLabel>
+						<content src="text/chapter-1-7-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-74" playOrder="74">
+						<navLabel>
+							<text>VIII: An Entrance by Favor</text>
+						</navLabel>
+						<content src="text/chapter-1-7-8.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-75" playOrder="75">
+						<navLabel>
+							<text>IX: A Place Where Convictions Are in Process of Formation</text>
+						</navLabel>
+						<content src="text/chapter-1-7-9.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-76" playOrder="76">
+						<navLabel>
+							<text>X: The System of Denials</text>
+						</navLabel>
+						<content src="text/chapter-1-7-10.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-77" playOrder="77">
+						<navLabel>
+							<text>XI: Champmathieu More and More Astonished</text>
+						</navLabel>
+						<content src="text/chapter-1-7-11.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-78" playOrder="78">
+					<navLabel>
+						<text>Book VIII: A Counterblow</text>
+					</navLabel>
+					<content src="text/book-1-8.xhtml"/>
+					<navPoint id="navpoint-79" playOrder="79">
+						<navLabel>
+							<text>I: In What Mirror M. Madeleine Contemplates His Hair</text>
+						</navLabel>
+						<content src="text/chapter-1-8-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-80" playOrder="80">
+						<navLabel>
+							<text>II: Fantine Happy</text>
+						</navLabel>
+						<content src="text/chapter-1-8-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-81" playOrder="81">
+						<navLabel>
+							<text>III: Javert Satisfied</text>
+						</navLabel>
+						<content src="text/chapter-1-8-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-82" playOrder="82">
+						<navLabel>
+							<text>IV: Authority Reasserts Its Rights</text>
+						</navLabel>
+						<content src="text/chapter-1-8-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-83" playOrder="83">
+						<navLabel>
+							<text>V: A Suitable Tomb</text>
+						</navLabel>
+						<content src="text/chapter-1-8-5.xhtml"/>
+					</navPoint>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint-84" playOrder="84">
+				<navLabel>
+					<text>Volume II: Cosette</text>
+				</navLabel>
+				<content src="text/volume-2.xhtml"/>
+				<navPoint id="navpoint-85" playOrder="85">
+					<navLabel>
+						<text>Book I: Waterloo</text>
+					</navLabel>
+					<content src="text/book-2-1.xhtml"/>
+					<navPoint id="navpoint-86" playOrder="86">
+						<navLabel>
+							<text>I: What Is Met with on the Way from Nivelles</text>
+						</navLabel>
+						<content src="text/chapter-2-1-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-87" playOrder="87">
+						<navLabel>
+							<text>II: Hougomont</text>
+						</navLabel>
+						<content src="text/chapter-2-1-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-88" playOrder="88">
+						<navLabel>
+							<text>III: The Eighteenth of June, 1815</text>
+						</navLabel>
+						<content src="text/chapter-2-1-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-89" playOrder="89">
+						<navLabel>
+							<text>IV: A</text>
+						</navLabel>
+						<content src="text/chapter-2-1-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-90" playOrder="90">
+						<navLabel>
+							<text>V: The Quid Obscurum of Battles</text>
+						</navLabel>
+						<content src="text/chapter-2-1-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-91" playOrder="91">
+						<navLabel>
+							<text>VI: Four O’Clock in the Afternoon</text>
+						</navLabel>
+						<content src="text/chapter-2-1-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-92" playOrder="92">
+						<navLabel>
+							<text>VII: Napoleon in a Good Humor</text>
+						</navLabel>
+						<content src="text/chapter-2-1-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-93" playOrder="93">
+						<navLabel>
+							<text>VIII: The Emperor Puts a Question to the Guide Lacoste</text>
+						</navLabel>
+						<content src="text/chapter-2-1-8.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-94" playOrder="94">
+						<navLabel>
+							<text>IX: The Unexpected</text>
+						</navLabel>
+						<content src="text/chapter-2-1-9.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-95" playOrder="95">
+						<navLabel>
+							<text>X: The Plateau of Mont-Saint-Jean</text>
+						</navLabel>
+						<content src="text/chapter-2-1-10.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-96" playOrder="96">
+						<navLabel>
+							<text>XI: A Bad Guide to Napoleon; A Good Guide to Bülow</text>
+						</navLabel>
+						<content src="text/chapter-2-1-11.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-97" playOrder="97">
+						<navLabel>
+							<text>XII: The Guard</text>
+						</navLabel>
+						<content src="text/chapter-2-1-12.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-98" playOrder="98">
+						<navLabel>
+							<text>XIII: The Catastrophe</text>
+						</navLabel>
+						<content src="text/chapter-2-1-13.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-99" playOrder="99">
+						<navLabel>
+							<text>XIV: The Last Square</text>
+						</navLabel>
+						<content src="text/chapter-2-1-14.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-100" playOrder="100">
+						<navLabel>
+							<text>XV: Cambronne</text>
+						</navLabel>
+						<content src="text/chapter-2-1-15.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-101" playOrder="101">
+						<navLabel>
+							<text>XVI: Quot Libras in Duce?</text>
+						</navLabel>
+						<content src="text/chapter-2-1-16.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-102" playOrder="102">
+						<navLabel>
+							<text>XVII: Is Waterloo to Be Considered Good?</text>
+						</navLabel>
+						<content src="text/chapter-2-1-17.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-103" playOrder="103">
+						<navLabel>
+							<text>XVIII: A Recrudescence of Divine Right</text>
+						</navLabel>
+						<content src="text/chapter-2-1-18.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-104" playOrder="104">
+						<navLabel>
+							<text>XIX: The Battlefield at Night</text>
+						</navLabel>
+						<content src="text/chapter-2-1-19.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-105" playOrder="105">
+					<navLabel>
+						<text>Book II: The Ship Orion</text>
+					</navLabel>
+					<content src="text/book-2-2.xhtml"/>
+					<navPoint id="navpoint-106" playOrder="106">
+						<navLabel>
+							<text>I: Number 24,601 Becomes Number 9,430</text>
+						</navLabel>
+						<content src="text/chapter-2-2-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-107" playOrder="107">
+						<navLabel>
+							<text>II: In Which the Reader Will Peruse Two Verses, Which Are of the Devil’s Composition, Possibly</text>
+						</navLabel>
+						<content src="text/chapter-2-2-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-108" playOrder="108">
+						<navLabel>
+							<text>III: The Ankle-Chain Must Have Undergone a Certain Preparatory Manipulation to Be Thus Broken with a Blow from a Hammer</text>
+						</navLabel>
+						<content src="text/chapter-2-2-3.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-109" playOrder="109">
+					<navLabel>
+						<text>Book III: Accomplishment of the Promise Made to the Dead Woman</text>
+					</navLabel>
+					<content src="text/book-2-3.xhtml"/>
+					<navPoint id="navpoint-110" playOrder="110">
+						<navLabel>
+							<text>I: The Water Question at Montfermeil</text>
+						</navLabel>
+						<content src="text/chapter-2-3-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-111" playOrder="111">
+						<navLabel>
+							<text>II: Two Complete Portraits</text>
+						</navLabel>
+						<content src="text/chapter-2-3-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-112" playOrder="112">
+						<navLabel>
+							<text>III: Men Must Have Wine, and Horses Must Have Water</text>
+						</navLabel>
+						<content src="text/chapter-2-3-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-113" playOrder="113">
+						<navLabel>
+							<text>IV: Entrance on the Scene of a Doll</text>
+						</navLabel>
+						<content src="text/chapter-2-3-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-114" playOrder="114">
+						<navLabel>
+							<text>V: The Little One All Alone</text>
+						</navLabel>
+						<content src="text/chapter-2-3-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-115" playOrder="115">
+						<navLabel>
+							<text>VI: Which Possibly Proves Boulatruelle’s Intelligence</text>
+						</navLabel>
+						<content src="text/chapter-2-3-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-116" playOrder="116">
+						<navLabel>
+							<text>VII: Cosette Side by Side with the Stranger in the Dark</text>
+						</navLabel>
+						<content src="text/chapter-2-3-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-117" playOrder="117">
+						<navLabel>
+							<text>VIII: The Unpleasantness of Receiving Into One’s House a Poor Man Who May Be a Rich Man</text>
+						</navLabel>
+						<content src="text/chapter-2-3-8.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-118" playOrder="118">
+						<navLabel>
+							<text>IX: Thénardier and His Manouvres</text>
+						</navLabel>
+						<content src="text/chapter-2-3-9.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-119" playOrder="119">
+						<navLabel>
+							<text>X: He Who Seeks to Better Himself May Render His Situation Worse</text>
+						</navLabel>
+						<content src="text/chapter-2-3-10.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-120" playOrder="120">
+						<navLabel>
+							<text>XI: Number 9,430 Reappears, and Cosette Wins It in the Lottery</text>
+						</navLabel>
+						<content src="text/chapter-2-3-11.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-121" playOrder="121">
+					<navLabel>
+						<text>Book IV: The Gorbeau Hovel</text>
+					</navLabel>
+					<content src="text/book-2-4.xhtml"/>
+					<navPoint id="navpoint-122" playOrder="122">
+						<navLabel>
+							<text>I: Master Gorbeau</text>
+						</navLabel>
+						<content src="text/chapter-2-4-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-123" playOrder="123">
+						<navLabel>
+							<text>II: A Nest for Owl and a Warbler</text>
+						</navLabel>
+						<content src="text/chapter-2-4-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-124" playOrder="124">
+						<navLabel>
+							<text>III: Two Misfortunes Make One Piece of Good Fortune</text>
+						</navLabel>
+						<content src="text/chapter-2-4-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-125" playOrder="125">
+						<navLabel>
+							<text>IV: The Remarks of the Principal Tenant</text>
+						</navLabel>
+						<content src="text/chapter-2-4-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-126" playOrder="126">
+						<navLabel>
+							<text>V: A Five-Franc Piece Falls on the Ground and Produces a Tumult</text>
+						</navLabel>
+						<content src="text/chapter-2-4-5.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-127" playOrder="127">
+					<navLabel>
+						<text>Book V: For a Black Hunt, a Mute Pack</text>
+					</navLabel>
+					<content src="text/book-2-5.xhtml"/>
+					<navPoint id="navpoint-128" playOrder="128">
+						<navLabel>
+							<text>I: The Zigzags of Strategy</text>
+						</navLabel>
+						<content src="text/chapter-2-5-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-129" playOrder="129">
+						<navLabel>
+							<text>II: It Is Lucky That the Pont d’Austerlitz Bears Carriages</text>
+						</navLabel>
+						<content src="text/chapter-2-5-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-130" playOrder="130">
+						<navLabel>
+							<text>III: To Wit, the Plan of Paris in 1727</text>
+						</navLabel>
+						<content src="text/chapter-2-5-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-131" playOrder="131">
+						<navLabel>
+							<text>IV: The Gropings of Flight</text>
+						</navLabel>
+						<content src="text/chapter-2-5-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-132" playOrder="132">
+						<navLabel>
+							<text>V: Which Would Be Impossible with Gas Lanterns</text>
+						</navLabel>
+						<content src="text/chapter-2-5-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-133" playOrder="133">
+						<navLabel>
+							<text>VI: The Beginning of an Enigma</text>
+						</navLabel>
+						<content src="text/chapter-2-5-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-134" playOrder="134">
+						<navLabel>
+							<text>VII: Continuation of the Enigma</text>
+						</navLabel>
+						<content src="text/chapter-2-5-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-135" playOrder="135">
+						<navLabel>
+							<text>VIII: The Enigma Becomes Doubly Mysterious</text>
+						</navLabel>
+						<content src="text/chapter-2-5-8.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-136" playOrder="136">
+						<navLabel>
+							<text>IX: The Man with the Bell</text>
+						</navLabel>
+						<content src="text/chapter-2-5-9.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-137" playOrder="137">
+						<navLabel>
+							<text>X: Which Explains How Javert Got on the Scent</text>
+						</navLabel>
+						<content src="text/chapter-2-5-10.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-138" playOrder="138">
+					<navLabel>
+						<text>Book VI: Le Petit-Picpus</text>
+					</navLabel>
+					<content src="text/book-2-6.xhtml"/>
+					<navPoint id="navpoint-139" playOrder="139">
+						<navLabel>
+							<text>I: Number 62 Rue Petit-Picpus</text>
+						</navLabel>
+						<content src="text/chapter-2-6-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-140" playOrder="140">
+						<navLabel>
+							<text>II: The Obedience of Martin Verga</text>
+						</navLabel>
+						<content src="text/chapter-2-6-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-141" playOrder="141">
+						<navLabel>
+							<text>III: Austerities</text>
+						</navLabel>
+						<content src="text/chapter-2-6-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-142" playOrder="142">
+						<navLabel>
+							<text>IV: Gayeties</text>
+						</navLabel>
+						<content src="text/chapter-2-6-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-143" playOrder="143">
+						<navLabel>
+							<text>V: Distractions</text>
+						</navLabel>
+						<content src="text/chapter-2-6-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-144" playOrder="144">
+						<navLabel>
+							<text>VI: The Little Convent</text>
+						</navLabel>
+						<content src="text/chapter-2-6-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-145" playOrder="145">
+						<navLabel>
+							<text>VII: Some Silhouettes of This Darkness</text>
+						</navLabel>
+						<content src="text/chapter-2-6-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-146" playOrder="146">
+						<navLabel>
+							<text>VIII: Post Corda Lapides</text>
+						</navLabel>
+						<content src="text/chapter-2-6-8.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-147" playOrder="147">
+						<navLabel>
+							<text>IX: A Century Under a Guimpe</text>
+						</navLabel>
+						<content src="text/chapter-2-6-9.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-148" playOrder="148">
+						<navLabel>
+							<text>X: Origin of the Perpetual Adoration</text>
+						</navLabel>
+						<content src="text/chapter-2-6-10.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-149" playOrder="149">
+						<navLabel>
+							<text>XI: End of the Petit-Picpus</text>
+						</navLabel>
+						<content src="text/chapter-2-6-11.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-150" playOrder="150">
+					<navLabel>
+						<text>Book VII: Parenthesis</text>
+					</navLabel>
+					<content src="text/book-2-7.xhtml"/>
+					<navPoint id="navpoint-151" playOrder="151">
+						<navLabel>
+							<text>I: The Convent as an Abstract Idea</text>
+						</navLabel>
+						<content src="text/chapter-2-7-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-152" playOrder="152">
+						<navLabel>
+							<text>II: The Convent as an Historical Fact</text>
+						</navLabel>
+						<content src="text/chapter-2-7-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-153" playOrder="153">
+						<navLabel>
+							<text>III: On What Conditions One Can Respect the Past</text>
+						</navLabel>
+						<content src="text/chapter-2-7-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-154" playOrder="154">
+						<navLabel>
+							<text>IV: The Convent from the Point of View of Principles</text>
+						</navLabel>
+						<content src="text/chapter-2-7-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-155" playOrder="155">
+						<navLabel>
+							<text>V: Prayer</text>
+						</navLabel>
+						<content src="text/chapter-2-7-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-156" playOrder="156">
+						<navLabel>
+							<text>VI: The Absolute Goodness of Prayer</text>
+						</navLabel>
+						<content src="text/chapter-2-7-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-157" playOrder="157">
+						<navLabel>
+							<text>VII: Precautions to Be Observed in Blame</text>
+						</navLabel>
+						<content src="text/chapter-2-7-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-158" playOrder="158">
+						<navLabel>
+							<text>VIII: Faith, Law</text>
+						</navLabel>
+						<content src="text/chapter-2-7-8.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-159" playOrder="159">
+					<navLabel>
+						<text>Book VIII: Cemeteries Take That Which Is Committed Them</text>
+					</navLabel>
+					<content src="text/book-2-8.xhtml"/>
+					<navPoint id="navpoint-160" playOrder="160">
+						<navLabel>
+							<text>I: Which Treats of the Manner of Entering a Convent</text>
+						</navLabel>
+						<content src="text/chapter-2-8-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-161" playOrder="161">
+						<navLabel>
+							<text>II: Fauchelevent in the Presence of a Difficulty</text>
+						</navLabel>
+						<content src="text/chapter-2-8-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-162" playOrder="162">
+						<navLabel>
+							<text>III: Mother Innocente</text>
+						</navLabel>
+						<content src="text/chapter-2-8-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-163" playOrder="163">
+						<navLabel>
+							<text>IV: In Which Jean Valjean Has Quite the Air of Having Read Austin Castillejo</text>
+						</navLabel>
+						<content src="text/chapter-2-8-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-164" playOrder="164">
+						<navLabel>
+							<text>V: It Is Not Necessary to Be Drunk in Order to Be Immortal</text>
+						</navLabel>
+						<content src="text/chapter-2-8-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-165" playOrder="165">
+						<navLabel>
+							<text>VI: Between Four Planks</text>
+						</navLabel>
+						<content src="text/chapter-2-8-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-166" playOrder="166">
+						<navLabel>
+							<text>VII: In Which Will Be Found the Origin of the Saying: Don’t Lose the Card</text>
+						</navLabel>
+						<content src="text/chapter-2-8-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-167" playOrder="167">
+						<navLabel>
+							<text>VIII: A Successful Interrogatory</text>
+						</navLabel>
+						<content src="text/chapter-2-8-8.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-168" playOrder="168">
+						<navLabel>
+							<text>IX: Cloistered</text>
+						</navLabel>
+						<content src="text/chapter-2-8-9.xhtml"/>
+					</navPoint>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint-169" playOrder="169">
+				<navLabel>
+					<text>Volume III: Marius</text>
+				</navLabel>
+				<content src="text/volume-3.xhtml"/>
+				<navPoint id="navpoint-170" playOrder="170">
+					<navLabel>
+						<text>Book I: Paris Studied in Its Atom</text>
+					</navLabel>
+					<content src="text/book-3-1.xhtml"/>
+					<navPoint id="navpoint-171" playOrder="171">
+						<navLabel>
+							<text>I: Parvulus</text>
+						</navLabel>
+						<content src="text/chapter-3-1-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-172" playOrder="172">
+						<navLabel>
+							<text>II: Some of His Particular Characteristics</text>
+						</navLabel>
+						<content src="text/chapter-3-1-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-173" playOrder="173">
+						<navLabel>
+							<text>III: He Is Agreeable</text>
+						</navLabel>
+						<content src="text/chapter-3-1-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-174" playOrder="174">
+						<navLabel>
+							<text>IV: He May Be of Use</text>
+						</navLabel>
+						<content src="text/chapter-3-1-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-175" playOrder="175">
+						<navLabel>
+							<text>V: His Frontiers</text>
+						</navLabel>
+						<content src="text/chapter-3-1-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-176" playOrder="176">
+						<navLabel>
+							<text>VI: A Bit of History</text>
+						</navLabel>
+						<content src="text/chapter-3-1-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-177" playOrder="177">
+						<navLabel>
+							<text>VII: The Gamin Should Have His Place in the Classifications of India</text>
+						</navLabel>
+						<content src="text/chapter-3-1-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-178" playOrder="178">
+						<navLabel>
+							<text>VIII: In Which the Reader Will Find a Charming Saying of the Last King</text>
+						</navLabel>
+						<content src="text/chapter-3-1-8.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-179" playOrder="179">
+						<navLabel>
+							<text>IX: The Old Soul of Gaul</text>
+						</navLabel>
+						<content src="text/chapter-3-1-9.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-180" playOrder="180">
+						<navLabel>
+							<text>X: Ecce Paris, Ecce Homo</text>
+						</navLabel>
+						<content src="text/chapter-3-1-10.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-181" playOrder="181">
+						<navLabel>
+							<text>XI: To Scoff, to Reign</text>
+						</navLabel>
+						<content src="text/chapter-3-1-11.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-182" playOrder="182">
+						<navLabel>
+							<text>XII: The Future Latent in the People</text>
+						</navLabel>
+						<content src="text/chapter-3-1-12.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-183" playOrder="183">
+						<navLabel>
+							<text>XIII: Little Gavroche</text>
+						</navLabel>
+						<content src="text/chapter-3-1-13.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-184" playOrder="184">
+					<navLabel>
+						<text>Book II: The Great Bourgeois</text>
+					</navLabel>
+					<content src="text/book-3-2.xhtml"/>
+					<navPoint id="navpoint-185" playOrder="185">
+						<navLabel>
+							<text>I: Ninety Years and Thirty-Two Teeth</text>
+						</navLabel>
+						<content src="text/chapter-3-2-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-186" playOrder="186">
+						<navLabel>
+							<text>II: Like Master, Like House</text>
+						</navLabel>
+						<content src="text/chapter-3-2-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-187" playOrder="187">
+						<navLabel>
+							<text>III: Luc-Esprit</text>
+						</navLabel>
+						<content src="text/chapter-3-2-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-188" playOrder="188">
+						<navLabel>
+							<text>IV: A Centenarian Aspirant</text>
+						</navLabel>
+						<content src="text/chapter-3-2-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-189" playOrder="189">
+						<navLabel>
+							<text>V: Basque and Nicolette</text>
+						</navLabel>
+						<content src="text/chapter-3-2-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-190" playOrder="190">
+						<navLabel>
+							<text>VI: In Which Magnon and Her Two Children Are Seen</text>
+						</navLabel>
+						<content src="text/chapter-3-2-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-191" playOrder="191">
+						<navLabel>
+							<text>VII: Rule: Receive No One Except in the Evening</text>
+						</navLabel>
+						<content src="text/chapter-3-2-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-192" playOrder="192">
+						<navLabel>
+							<text>VIII: Two Do Not Make a Pair</text>
+						</navLabel>
+						<content src="text/chapter-3-2-8.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-193" playOrder="193">
+					<navLabel>
+						<text>Book III: The Grandfather and the Grandson</text>
+					</navLabel>
+					<content src="text/book-3-3.xhtml"/>
+					<navPoint id="navpoint-194" playOrder="194">
+						<navLabel>
+							<text>I: An Ancient Salon</text>
+						</navLabel>
+						<content src="text/chapter-3-3-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-195" playOrder="195">
+						<navLabel>
+							<text>II: One of the Red Spectres of That Epoch</text>
+						</navLabel>
+						<content src="text/chapter-3-3-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-196" playOrder="196">
+						<navLabel>
+							<text>III: Requiescant</text>
+						</navLabel>
+						<content src="text/chapter-3-3-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-197" playOrder="197">
+						<navLabel>
+							<text>IV: End of the Brigand</text>
+						</navLabel>
+						<content src="text/chapter-3-3-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-198" playOrder="198">
+						<navLabel>
+							<text>V: The Utility of Going to Mass, in Order to Become a Revolutionist</text>
+						</navLabel>
+						<content src="text/chapter-3-3-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-199" playOrder="199">
+						<navLabel>
+							<text>VI: The Consequences of Having Met a Warden</text>
+						</navLabel>
+						<content src="text/chapter-3-3-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-200" playOrder="200">
+						<navLabel>
+							<text>VII: Some Petticoat</text>
+						</navLabel>
+						<content src="text/chapter-3-3-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-201" playOrder="201">
+						<navLabel>
+							<text>VIII: Marble Against Granite</text>
+						</navLabel>
+						<content src="text/chapter-3-3-8.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-202" playOrder="202">
+					<navLabel>
+						<text>Book IV: The Friends of the A.B.C.</text>
+					</navLabel>
+					<content src="text/book-3-4.xhtml"/>
+					<navPoint id="navpoint-203" playOrder="203">
+						<navLabel>
+							<text>I: A Group Which Barely Missed Becoming Historic</text>
+						</navLabel>
+						<content src="text/chapter-3-4-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-204" playOrder="204">
+						<navLabel>
+							<text>II: Blondeau’s Funeral Oration by Bossuet</text>
+						</navLabel>
+						<content src="text/chapter-3-4-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-205" playOrder="205">
+						<navLabel>
+							<text>III: Marius’ Astonishments</text>
+						</navLabel>
+						<content src="text/chapter-3-4-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-206" playOrder="206">
+						<navLabel>
+							<text>IV: The Back Room of the Café Musain</text>
+						</navLabel>
+						<content src="text/chapter-3-4-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-207" playOrder="207">
+						<navLabel>
+							<text>V: Enlargement of Horizon</text>
+						</navLabel>
+						<content src="text/chapter-3-4-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-208" playOrder="208">
+						<navLabel>
+							<text>VI: Res Angusta</text>
+						</navLabel>
+						<content src="text/chapter-3-4-6.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-209" playOrder="209">
+					<navLabel>
+						<text>Book V: The Excellence of Misfortune</text>
+					</navLabel>
+					<content src="text/book-3-5.xhtml"/>
+					<navPoint id="navpoint-210" playOrder="210">
+						<navLabel>
+							<text>I: Marius Indigent</text>
+						</navLabel>
+						<content src="text/chapter-3-5-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-211" playOrder="211">
+						<navLabel>
+							<text>II: Marius Poor</text>
+						</navLabel>
+						<content src="text/chapter-3-5-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-212" playOrder="212">
+						<navLabel>
+							<text>III: Marius Grown Up</text>
+						</navLabel>
+						<content src="text/chapter-3-5-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-213" playOrder="213">
+						<navLabel>
+							<text>IV: M. Mabeuf</text>
+						</navLabel>
+						<content src="text/chapter-3-5-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-214" playOrder="214">
+						<navLabel>
+							<text>V: Poverty a Good Neighbor for Misery</text>
+						</navLabel>
+						<content src="text/chapter-3-5-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-215" playOrder="215">
+						<navLabel>
+							<text>VI: The Substitute</text>
+						</navLabel>
+						<content src="text/chapter-3-5-6.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-216" playOrder="216">
+					<navLabel>
+						<text>Book VI: The Conjunction of Two Stars</text>
+					</navLabel>
+					<content src="text/book-3-6.xhtml"/>
+					<navPoint id="navpoint-217" playOrder="217">
+						<navLabel>
+							<text>I: The Sobriquet: Mode of Formation of Family Names</text>
+						</navLabel>
+						<content src="text/chapter-3-6-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-218" playOrder="218">
+						<navLabel>
+							<text>II: Lux Facta Est</text>
+						</navLabel>
+						<content src="text/chapter-3-6-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-219" playOrder="219">
+						<navLabel>
+							<text>III: Effect of the Spring</text>
+						</navLabel>
+						<content src="text/chapter-3-6-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-220" playOrder="220">
+						<navLabel>
+							<text>IV: Beginning of a Great Malady</text>
+						</navLabel>
+						<content src="text/chapter-3-6-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-221" playOrder="221">
+						<navLabel>
+							<text>V: Divers Claps of Thunder Fall on Ma’am Bougon</text>
+						</navLabel>
+						<content src="text/chapter-3-6-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-222" playOrder="222">
+						<navLabel>
+							<text>VI: Taken Prisoner</text>
+						</navLabel>
+						<content src="text/chapter-3-6-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-223" playOrder="223">
+						<navLabel>
+							<text>VII: Adventures of the Letter U Delivered Over to Conjectures</text>
+						</navLabel>
+						<content src="text/chapter-3-6-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-224" playOrder="224">
+						<navLabel>
+							<text>VIII: The Veterans Themselves Can Be Happy</text>
+						</navLabel>
+						<content src="text/chapter-3-6-8.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-225" playOrder="225">
+						<navLabel>
+							<text>IX: Eclipse</text>
+						</navLabel>
+						<content src="text/chapter-3-6-9.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-226" playOrder="226">
+					<navLabel>
+						<text>Book VII: Patron Minette</text>
+					</navLabel>
+					<content src="text/book-3-7.xhtml"/>
+					<navPoint id="navpoint-227" playOrder="227">
+						<navLabel>
+							<text>I: Mines and Miners</text>
+						</navLabel>
+						<content src="text/chapter-3-7-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-228" playOrder="228">
+						<navLabel>
+							<text>II: The Lowest Depths</text>
+						</navLabel>
+						<content src="text/chapter-3-7-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-229" playOrder="229">
+						<navLabel>
+							<text>III: Babet, Gueulemer, Claquesous, and Montparnasse</text>
+						</navLabel>
+						<content src="text/chapter-3-7-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-230" playOrder="230">
+						<navLabel>
+							<text>IV: Composition of the Troupe</text>
+						</navLabel>
+						<content src="text/chapter-3-7-4.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-231" playOrder="231">
+					<navLabel>
+						<text>Book VIII: The Wicked Poor Man</text>
+					</navLabel>
+					<content src="text/book-3-8.xhtml"/>
+					<navPoint id="navpoint-232" playOrder="232">
+						<navLabel>
+							<text>I: Marius, While Seeking a Girl in a Bonnet, Encounters a Man in a Cap</text>
+						</navLabel>
+						<content src="text/chapter-3-8-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-233" playOrder="233">
+						<navLabel>
+							<text>II: Treasure Trove</text>
+						</navLabel>
+						<content src="text/chapter-3-8-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-234" playOrder="234">
+						<navLabel>
+							<text>III: Quadrifrons</text>
+						</navLabel>
+						<content src="text/chapter-3-8-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-235" playOrder="235">
+						<navLabel>
+							<text>IV: A Rose in Misery</text>
+						</navLabel>
+						<content src="text/chapter-3-8-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-236" playOrder="236">
+						<navLabel>
+							<text>V: A Providential Peephole</text>
+						</navLabel>
+						<content src="text/chapter-3-8-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-237" playOrder="237">
+						<navLabel>
+							<text>VI: The Wild Man in His Lair</text>
+						</navLabel>
+						<content src="text/chapter-3-8-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-238" playOrder="238">
+						<navLabel>
+							<text>VII: Strategy and Tactics</text>
+						</navLabel>
+						<content src="text/chapter-3-8-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-239" playOrder="239">
+						<navLabel>
+							<text>VIII: The Ray of Light in the Hovel</text>
+						</navLabel>
+						<content src="text/chapter-3-8-8.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-240" playOrder="240">
+						<navLabel>
+							<text>IX: Jondrette Comes Near Weeping</text>
+						</navLabel>
+						<content src="text/chapter-3-8-9.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-241" playOrder="241">
+						<navLabel>
+							<text>X: Tariff of Licensed Cabs: Two Francs an Hour</text>
+						</navLabel>
+						<content src="text/chapter-3-8-10.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-242" playOrder="242">
+						<navLabel>
+							<text>XI: Offers of Service from Misery to Wretchedness</text>
+						</navLabel>
+						<content src="text/chapter-3-8-11.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-243" playOrder="243">
+						<navLabel>
+							<text>XII: The Use Made of M. Leblanc’s Five-Franc Piece</text>
+						</navLabel>
+						<content src="text/chapter-3-8-12.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-244" playOrder="244">
+						<navLabel>
+							<text>XIII: Solus Cum Solo, in Loco Remoto, Non Cogitabuntur Orare Pater Noster</text>
+						</navLabel>
+						<content src="text/chapter-3-8-13.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-245" playOrder="245">
+						<navLabel>
+							<text>XIV: In Which a Police Agent Bestows Two Fistfuls on a Lawyer</text>
+						</navLabel>
+						<content src="text/chapter-3-8-14.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-246" playOrder="246">
+						<navLabel>
+							<text>XV: Jondrette Makes His Purchases</text>
+						</navLabel>
+						<content src="text/chapter-3-8-15.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-247" playOrder="247">
+						<navLabel>
+							<text>XVI: In Which Will Be Found the Words to an English Air Which Was in Fashion in 1832</text>
+						</navLabel>
+						<content src="text/chapter-3-8-16.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-248" playOrder="248">
+						<navLabel>
+							<text>XVII: The Use Made of Marius’ Five-Franc Piece</text>
+						</navLabel>
+						<content src="text/chapter-3-8-17.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-249" playOrder="249">
+						<navLabel>
+							<text>XVIII: Marius’ Two Chairs Form a Vis-a-Vis</text>
+						</navLabel>
+						<content src="text/chapter-3-8-18.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-250" playOrder="250">
+						<navLabel>
+							<text>XIX: Occupying One’s Self with Obscure Depths</text>
+						</navLabel>
+						<content src="text/chapter-3-8-19.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-251" playOrder="251">
+						<navLabel>
+							<text>XX: The Trap</text>
+						</navLabel>
+						<content src="text/chapter-3-8-20.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-252" playOrder="252">
+						<navLabel>
+							<text>XXI: One Should Always Begin by Arresting the Victims</text>
+						</navLabel>
+						<content src="text/chapter-3-8-21.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-253" playOrder="253">
+						<navLabel>
+							<text>XXII: The Little One Who Was Crying in Volume Two</text>
+						</navLabel>
+						<content src="text/chapter-3-8-22.xhtml"/>
+					</navPoint>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint-254" playOrder="254">
+				<navLabel>
+					<text>Volume IV: The Idyl in the Rue Plumet and the Epic in the Rue Saint-Denis</text>
+				</navLabel>
+				<content src="text/volume-4.xhtml"/>
+				<navPoint id="navpoint-255" playOrder="255">
+					<navLabel>
+						<text>Book I: A Few Pages of History</text>
+					</navLabel>
+					<content src="text/book-4-1.xhtml"/>
+					<navPoint id="navpoint-256" playOrder="256">
+						<navLabel>
+							<text>I: Well Cut</text>
+						</navLabel>
+						<content src="text/chapter-4-1-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-257" playOrder="257">
+						<navLabel>
+							<text>II: Badly Sewed</text>
+						</navLabel>
+						<content src="text/chapter-4-1-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-258" playOrder="258">
+						<navLabel>
+							<text>III: Louis Philippe</text>
+						</navLabel>
+						<content src="text/chapter-4-1-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-259" playOrder="259">
+						<navLabel>
+							<text>IV: Cracks Beneath the Foundation</text>
+						</navLabel>
+						<content src="text/chapter-4-1-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-260" playOrder="260">
+						<navLabel>
+							<text>V: Facts Whence History Springs and Which History Ignores</text>
+						</navLabel>
+						<content src="text/chapter-4-1-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-261" playOrder="261">
+						<navLabel>
+							<text>VI: Enjolras and His Lieutenants</text>
+						</navLabel>
+						<content src="text/chapter-4-1-6.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-262" playOrder="262">
+					<navLabel>
+						<text>Book II: Éponine</text>
+					</navLabel>
+					<content src="text/book-4-2.xhtml"/>
+					<navPoint id="navpoint-263" playOrder="263">
+						<navLabel>
+							<text>I: The Lark’s Meadow</text>
+						</navLabel>
+						<content src="text/chapter-4-2-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-264" playOrder="264">
+						<navLabel>
+							<text>II: Embryonic Formation of Crimes in the Incubation of Prisons</text>
+						</navLabel>
+						<content src="text/chapter-4-2-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-265" playOrder="265">
+						<navLabel>
+							<text>III: Apparition to Father Mabeuf</text>
+						</navLabel>
+						<content src="text/chapter-4-2-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-266" playOrder="266">
+						<navLabel>
+							<text>IV: An Apparition to Marius</text>
+						</navLabel>
+						<content src="text/chapter-4-2-4.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-267" playOrder="267">
+					<navLabel>
+						<text>Book III: The House in the Rue Plumet</text>
+					</navLabel>
+					<content src="text/book-4-3.xhtml"/>
+					<navPoint id="navpoint-268" playOrder="268">
+						<navLabel>
+							<text>I: The House with a Secret</text>
+						</navLabel>
+						<content src="text/chapter-4-3-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-269" playOrder="269">
+						<navLabel>
+							<text>II: Jean Valjean as a National Guard</text>
+						</navLabel>
+						<content src="text/chapter-4-3-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-270" playOrder="270">
+						<navLabel>
+							<text>III: Foliis Ac Frondibus</text>
+						</navLabel>
+						<content src="text/chapter-4-3-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-271" playOrder="271">
+						<navLabel>
+							<text>IV: Change of Gate</text>
+						</navLabel>
+						<content src="text/chapter-4-3-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-272" playOrder="272">
+						<navLabel>
+							<text>V: The Rose Perceives That It Is an Engine of War</text>
+						</navLabel>
+						<content src="text/chapter-4-3-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-273" playOrder="273">
+						<navLabel>
+							<text>VI: The Battle Begun</text>
+						</navLabel>
+						<content src="text/chapter-4-3-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-274" playOrder="274">
+						<navLabel>
+							<text>VII: To One Sadness Oppose a Sadness and a Half</text>
+						</navLabel>
+						<content src="text/chapter-4-3-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-275" playOrder="275">
+						<navLabel>
+							<text>VIII: The Chain-Gang</text>
+						</navLabel>
+						<content src="text/chapter-4-3-8.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-276" playOrder="276">
+					<navLabel>
+						<text>Book IV: Succor from Below May Turn Out to Be Succor from on High</text>
+					</navLabel>
+					<content src="text/book-4-4.xhtml"/>
+					<navPoint id="navpoint-277" playOrder="277">
+						<navLabel>
+							<text>I: A Wound Without, Healing Within</text>
+						</navLabel>
+						<content src="text/chapter-4-4-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-278" playOrder="278">
+						<navLabel>
+							<text>II: Mother Plutarque Finds No Difficulty in Explaining a Phenomenon</text>
+						</navLabel>
+						<content src="text/chapter-4-4-2.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-279" playOrder="279">
+					<navLabel>
+						<text>Book V: The End of Which Does Not Resemble the Beginning</text>
+					</navLabel>
+					<content src="text/book-4-5.xhtml"/>
+					<navPoint id="navpoint-280" playOrder="280">
+						<navLabel>
+							<text>I: Solitude and the Barracks Combined</text>
+						</navLabel>
+						<content src="text/chapter-4-5-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-281" playOrder="281">
+						<navLabel>
+							<text>II: Cosette’s Apprehensions</text>
+						</navLabel>
+						<content src="text/chapter-4-5-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-282" playOrder="282">
+						<navLabel>
+							<text>III: Enriched with Commentaries by Toussaint</text>
+						</navLabel>
+						<content src="text/chapter-4-5-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-283" playOrder="283">
+						<navLabel>
+							<text>IV: A Heart Beneath a Stone</text>
+						</navLabel>
+						<content src="text/chapter-4-5-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-284" playOrder="284">
+						<navLabel>
+							<text>V: Cosette After the Letter</text>
+						</navLabel>
+						<content src="text/chapter-4-5-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-285" playOrder="285">
+						<navLabel>
+							<text>VI: Old People Are Made to Go Out Opportunely</text>
+						</navLabel>
+						<content src="text/chapter-4-5-6.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-286" playOrder="286">
+					<navLabel>
+						<text>Book VI: Little Gavroche</text>
+					</navLabel>
+					<content src="text/book-4-6.xhtml"/>
+					<navPoint id="navpoint-287" playOrder="287">
+						<navLabel>
+							<text>I: The Malicious Playfulness of the Wind</text>
+						</navLabel>
+						<content src="text/chapter-4-6-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-288" playOrder="288">
+						<navLabel>
+							<text>II: In Which Little Gavroche Extracts Profit from Napoleon the Great</text>
+						</navLabel>
+						<content src="text/chapter-4-6-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-289" playOrder="289">
+						<navLabel>
+							<text>III: The Vicissitudes of Flight</text>
+						</navLabel>
+						<content src="text/chapter-4-6-3.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-290" playOrder="290">
+					<navLabel>
+						<text>Book VII: Slang</text>
+					</navLabel>
+					<content src="text/book-4-7.xhtml"/>
+					<navPoint id="navpoint-291" playOrder="291">
+						<navLabel>
+							<text>I: Origin</text>
+						</navLabel>
+						<content src="text/chapter-4-7-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-292" playOrder="292">
+						<navLabel>
+							<text>II: Roots</text>
+						</navLabel>
+						<content src="text/chapter-4-7-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-293" playOrder="293">
+						<navLabel>
+							<text>III: Slang Which Weeps and Slang Which Laughs</text>
+						</navLabel>
+						<content src="text/chapter-4-7-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-294" playOrder="294">
+						<navLabel>
+							<text>IV: The Two Duties: To Watch and to Hope</text>
+						</navLabel>
+						<content src="text/chapter-4-7-4.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-295" playOrder="295">
+					<navLabel>
+						<text>Book VIII: Enchantments and Desolations</text>
+					</navLabel>
+					<content src="text/book-4-8.xhtml"/>
+					<navPoint id="navpoint-296" playOrder="296">
+						<navLabel>
+							<text>I: Full Light</text>
+						</navLabel>
+						<content src="text/chapter-4-8-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-297" playOrder="297">
+						<navLabel>
+							<text>II: The Bewilderment of Perfect Happiness</text>
+						</navLabel>
+						<content src="text/chapter-4-8-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-298" playOrder="298">
+						<navLabel>
+							<text>III: The Beginning of Shadow</text>
+						</navLabel>
+						<content src="text/chapter-4-8-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-299" playOrder="299">
+						<navLabel>
+							<text>IV: A Cab Runs in English and Barks in Slang</text>
+						</navLabel>
+						<content src="text/chapter-4-8-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-300" playOrder="300">
+						<navLabel>
+							<text>V: Things of the Night</text>
+						</navLabel>
+						<content src="text/chapter-4-8-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-301" playOrder="301">
+						<navLabel>
+							<text>VI: Marius Becomes Practical Once More to the Extent of Giving Cosette His Address</text>
+						</navLabel>
+						<content src="text/chapter-4-8-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-302" playOrder="302">
+						<navLabel>
+							<text>VII: The Old Heart and the Young Heart in the Presence of Each Other</text>
+						</navLabel>
+						<content src="text/chapter-4-8-7.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-303" playOrder="303">
+					<navLabel>
+						<text>Book IX: Whither Are They Going?</text>
+					</navLabel>
+					<content src="text/book-4-9.xhtml"/>
+					<navPoint id="navpoint-304" playOrder="304">
+						<navLabel>
+							<text>I: Jean Valjean</text>
+						</navLabel>
+						<content src="text/chapter-4-9-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-305" playOrder="305">
+						<navLabel>
+							<text>II: Marius</text>
+						</navLabel>
+						<content src="text/chapter-4-9-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-306" playOrder="306">
+						<navLabel>
+							<text>III: M. Mabeuf</text>
+						</navLabel>
+						<content src="text/chapter-4-9-3.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-307" playOrder="307">
+					<navLabel>
+						<text>Book X: The 5th of June, 1832</text>
+					</navLabel>
+					<content src="text/book-4-10.xhtml"/>
+					<navPoint id="navpoint-308" playOrder="308">
+						<navLabel>
+							<text>I: The Surface of the Question</text>
+						</navLabel>
+						<content src="text/chapter-4-10-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-309" playOrder="309">
+						<navLabel>
+							<text>II: The Root of the Matter</text>
+						</navLabel>
+						<content src="text/chapter-4-10-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-310" playOrder="310">
+						<navLabel>
+							<text>III: A Burial; An Occasion to Be Born Again</text>
+						</navLabel>
+						<content src="text/chapter-4-10-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-311" playOrder="311">
+						<navLabel>
+							<text>IV: The Ebullitions of Former Days</text>
+						</navLabel>
+						<content src="text/chapter-4-10-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-312" playOrder="312">
+						<navLabel>
+							<text>V: Originality of Paris</text>
+						</navLabel>
+						<content src="text/chapter-4-10-5.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-313" playOrder="313">
+					<navLabel>
+						<text>Book XI: The Atom Fraternizes with the Hurricane</text>
+					</navLabel>
+					<content src="text/book-4-11.xhtml"/>
+					<navPoint id="navpoint-314" playOrder="314">
+						<navLabel>
+							<text>I: Some Explanations with Regard to the Origin of Gavroche’s Poetry</text>
+						</navLabel>
+						<content src="text/chapter-4-11-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-315" playOrder="315">
+						<navLabel>
+							<text>II: Gavroche on the March</text>
+						</navLabel>
+						<content src="text/chapter-4-11-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-316" playOrder="316">
+						<navLabel>
+							<text>III: Just Indignation of a Hairdresser</text>
+						</navLabel>
+						<content src="text/chapter-4-11-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-317" playOrder="317">
+						<navLabel>
+							<text>IV: The Child Is Amazed at the Old Man</text>
+						</navLabel>
+						<content src="text/chapter-4-11-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-318" playOrder="318">
+						<navLabel>
+							<text>V: The Old Man</text>
+						</navLabel>
+						<content src="text/chapter-4-11-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-319" playOrder="319">
+						<navLabel>
+							<text>VI: Recruits</text>
+						</navLabel>
+						<content src="text/chapter-4-11-6.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-320" playOrder="320">
+					<navLabel>
+						<text>Book XII: Corinthe</text>
+					</navLabel>
+					<content src="text/book-4-12.xhtml"/>
+					<navPoint id="navpoint-321" playOrder="321">
+						<navLabel>
+							<text>I: History of Corinthe from Its Foundation</text>
+						</navLabel>
+						<content src="text/chapter-4-12-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-322" playOrder="322">
+						<navLabel>
+							<text>II: Preliminary Gayeties</text>
+						</navLabel>
+						<content src="text/chapter-4-12-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-323" playOrder="323">
+						<navLabel>
+							<text>III: Night Begins to Descend Upon Grantaire</text>
+						</navLabel>
+						<content src="text/chapter-4-12-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-324" playOrder="324">
+						<navLabel>
+							<text>IV: An Attempt to Console the Widow Hucheloup</text>
+						</navLabel>
+						<content src="text/chapter-4-12-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-325" playOrder="325">
+						<navLabel>
+							<text>V: Preparations</text>
+						</navLabel>
+						<content src="text/chapter-4-12-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-326" playOrder="326">
+						<navLabel>
+							<text>VI: Waiting</text>
+						</navLabel>
+						<content src="text/chapter-4-12-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-327" playOrder="327">
+						<navLabel>
+							<text>VII: The Man Recruited in the Rue des Billettes</text>
+						</navLabel>
+						<content src="text/chapter-4-12-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-328" playOrder="328">
+						<navLabel>
+							<text>VIII: Many Interrogation Points with Regard to a Certain le Cabuc</text>
+						</navLabel>
+						<content src="text/chapter-4-12-8.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-329" playOrder="329">
+					<navLabel>
+						<text>Book XIII: Marius Enters the Shadow</text>
+					</navLabel>
+					<content src="text/book-4-13.xhtml"/>
+					<navPoint id="navpoint-330" playOrder="330">
+						<navLabel>
+							<text>I: From the Rue Plumet to the Quartier Saint-Denis</text>
+						</navLabel>
+						<content src="text/chapter-4-13-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-331" playOrder="331">
+						<navLabel>
+							<text>II: An Owl’s View of Paris</text>
+						</navLabel>
+						<content src="text/chapter-4-13-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-332" playOrder="332">
+						<navLabel>
+							<text>III: The Extreme Edge</text>
+						</navLabel>
+						<content src="text/chapter-4-13-3.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-333" playOrder="333">
+					<navLabel>
+						<text>Book XIV: The Grandeurs of Despair</text>
+					</navLabel>
+					<content src="text/book-4-14.xhtml"/>
+					<navPoint id="navpoint-334" playOrder="334">
+						<navLabel>
+							<text>I: The Flag: Act First</text>
+						</navLabel>
+						<content src="text/chapter-4-14-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-335" playOrder="335">
+						<navLabel>
+							<text>II: The Flag: Act Second</text>
+						</navLabel>
+						<content src="text/chapter-4-14-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-336" playOrder="336">
+						<navLabel>
+							<text>III: Gavroche Would Have Done Better to Accept Enjolras’ Carbine</text>
+						</navLabel>
+						<content src="text/chapter-4-14-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-337" playOrder="337">
+						<navLabel>
+							<text>IV: The Barrel of Powder</text>
+						</navLabel>
+						<content src="text/chapter-4-14-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-338" playOrder="338">
+						<navLabel>
+							<text>V: End of the Verses of Jean Prouvaire</text>
+						</navLabel>
+						<content src="text/chapter-4-14-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-339" playOrder="339">
+						<navLabel>
+							<text>VI: The Agony of Death After the Agony of Life</text>
+						</navLabel>
+						<content src="text/chapter-4-14-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-340" playOrder="340">
+						<navLabel>
+							<text>VII: Gavroche as a Profound Calculator of Distances</text>
+						</navLabel>
+						<content src="text/chapter-4-14-7.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-341" playOrder="341">
+					<navLabel>
+						<text>Book XV: The Rue de l’Homme Armé</text>
+					</navLabel>
+					<content src="text/book-4-15.xhtml"/>
+					<navPoint id="navpoint-342" playOrder="342">
+						<navLabel>
+							<text>I: A Drinker Is a Babbler</text>
+						</navLabel>
+						<content src="text/chapter-4-15-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-343" playOrder="343">
+						<navLabel>
+							<text>II: The Street Urchin an Enemy of Light</text>
+						</navLabel>
+						<content src="text/chapter-4-15-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-344" playOrder="344">
+						<navLabel>
+							<text>III: While Cosette and Toussaint Are Asleep</text>
+						</navLabel>
+						<content src="text/chapter-4-15-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-345" playOrder="345">
+						<navLabel>
+							<text>IV: Gavroche’s Excess of Zeal</text>
+						</navLabel>
+						<content src="text/chapter-4-15-4.xhtml"/>
+					</navPoint>
+				</navPoint>
+			</navPoint>
+			<navPoint id="navpoint-346" playOrder="346">
+				<navLabel>
+					<text>Volume V: Jean Valjean</text>
+				</navLabel>
+				<content src="text/volume-5.xhtml"/>
+				<navPoint id="navpoint-347" playOrder="347">
+					<navLabel>
+						<text>Book I: The War Between Four Walls</text>
+					</navLabel>
+					<content src="text/book-5-1.xhtml"/>
+					<navPoint id="navpoint-348" playOrder="348">
+						<navLabel>
+							<text>I: The Charybdis of the Faubourg Saint Antoine and the Scylla</text>
+						</navLabel>
+						<content src="text/chapter-5-1-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-349" playOrder="349">
+						<navLabel>
+							<text>II: What Is to Be Done in the Abyss if One Does Not Converse</text>
+						</navLabel>
+						<content src="text/chapter-5-1-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-350" playOrder="350">
+						<navLabel>
+							<text>III: Light and Shadow</text>
+						</navLabel>
+						<content src="text/chapter-5-1-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-351" playOrder="351">
+						<navLabel>
+							<text>IV: Minus Five, Plus One</text>
+						</navLabel>
+						<content src="text/chapter-5-1-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-352" playOrder="352">
+						<navLabel>
+							<text>V: The Horizon Which One Beholds from the Summit of a Barricade</text>
+						</navLabel>
+						<content src="text/chapter-5-1-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-353" playOrder="353">
+						<navLabel>
+							<text>VI: Marius Haggard, Javert Laconic</text>
+						</navLabel>
+						<content src="text/chapter-5-1-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-354" playOrder="354">
+						<navLabel>
+							<text>VII: The Situation Becomes Aggravated</text>
+						</navLabel>
+						<content src="text/chapter-5-1-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-355" playOrder="355">
+						<navLabel>
+							<text>VIII: The Artillerymen Compel People to Take Them Seriously</text>
+						</navLabel>
+						<content src="text/chapter-5-1-8.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-356" playOrder="356">
+						<navLabel>
+							<text>IX: Employment of the Old Talents of a Poacher and That Infallible Marksmanship Which Influenced the Condemnation of 1796</text>
+						</navLabel>
+						<content src="text/chapter-5-1-9.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-357" playOrder="357">
+						<navLabel>
+							<text>X: Dawn</text>
+						</navLabel>
+						<content src="text/chapter-5-1-10.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-358" playOrder="358">
+						<navLabel>
+							<text>XI: The Shot Which Misses Nothing and Kills No One</text>
+						</navLabel>
+						<content src="text/chapter-5-1-11.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-359" playOrder="359">
+						<navLabel>
+							<text>XII: Disorder a Partisan of Order</text>
+						</navLabel>
+						<content src="text/chapter-5-1-12.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-360" playOrder="360">
+						<navLabel>
+							<text>XIII: Passing Gleams</text>
+						</navLabel>
+						<content src="text/chapter-5-1-13.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-361" playOrder="361">
+						<navLabel>
+							<text>XIV: Wherein Will Appear the Name of Enjolras’ Mistress</text>
+						</navLabel>
+						<content src="text/chapter-5-1-14.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-362" playOrder="362">
+						<navLabel>
+							<text>XV: Gavroche Outside</text>
+						</navLabel>
+						<content src="text/chapter-5-1-15.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-363" playOrder="363">
+						<navLabel>
+							<text>XVI: How from a Brother One Becomes a Father</text>
+						</navLabel>
+						<content src="text/chapter-5-1-16.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-364" playOrder="364">
+						<navLabel>
+							<text>XVII: Mortuus Pater Filium Moriturum Expectat</text>
+						</navLabel>
+						<content src="text/chapter-5-1-17.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-365" playOrder="365">
+						<navLabel>
+							<text>XVIII: The Vulture Become Prey</text>
+						</navLabel>
+						<content src="text/chapter-5-1-18.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-366" playOrder="366">
+						<navLabel>
+							<text>XIX: Jean Valjean Takes His Revenge</text>
+						</navLabel>
+						<content src="text/chapter-5-1-19.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-367" playOrder="367">
+						<navLabel>
+							<text>XX: The Dead Are in the Right and the Living Are Not in the Wrong</text>
+						</navLabel>
+						<content src="text/chapter-5-1-20.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-368" playOrder="368">
+						<navLabel>
+							<text>XXI: The Heroes</text>
+						</navLabel>
+						<content src="text/chapter-5-1-21.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-369" playOrder="369">
+						<navLabel>
+							<text>XXII: Foot to Foot</text>
+						</navLabel>
+						<content src="text/chapter-5-1-22.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-370" playOrder="370">
+						<navLabel>
+							<text>XXIII: Orestes Fasting and Pylades Drunk</text>
+						</navLabel>
+						<content src="text/chapter-5-1-23.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-371" playOrder="371">
+						<navLabel>
+							<text>XXIV: Prisoner</text>
+						</navLabel>
+						<content src="text/chapter-5-1-24.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-372" playOrder="372">
+					<navLabel>
+						<text>Book II: The Intestine of the Leviathan</text>
+					</navLabel>
+					<content src="text/book-5-2.xhtml"/>
+					<navPoint id="navpoint-373" playOrder="373">
+						<navLabel>
+							<text>I: The Land Impoverished by the Sea</text>
+						</navLabel>
+						<content src="text/chapter-5-2-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-374" playOrder="374">
+						<navLabel>
+							<text>II: Ancient History of the Sewer</text>
+						</navLabel>
+						<content src="text/chapter-5-2-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-375" playOrder="375">
+						<navLabel>
+							<text>III: Bruneseau</text>
+						</navLabel>
+						<content src="text/chapter-5-2-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-376" playOrder="376">
+						<navLabel>
+							<text>IV</text>
+						</navLabel>
+						<content src="text/chapter-5-2-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-377" playOrder="377">
+						<navLabel>
+							<text>V: Present Progress</text>
+						</navLabel>
+						<content src="text/chapter-5-2-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-378" playOrder="378">
+						<navLabel>
+							<text>VI: Future Progress</text>
+						</navLabel>
+						<content src="text/chapter-5-2-6.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-379" playOrder="379">
+					<navLabel>
+						<text>Book III: Mud but the Soul</text>
+					</navLabel>
+					<content src="text/book-5-3.xhtml"/>
+					<navPoint id="navpoint-380" playOrder="380">
+						<navLabel>
+							<text>I: The Sewer and Its Surprises</text>
+						</navLabel>
+						<content src="text/chapter-5-3-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-381" playOrder="381">
+						<navLabel>
+							<text>II: Explanation</text>
+						</navLabel>
+						<content src="text/chapter-5-3-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-382" playOrder="382">
+						<navLabel>
+							<text>III: The “Spun” Man</text>
+						</navLabel>
+						<content src="text/chapter-5-3-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-383" playOrder="383">
+						<navLabel>
+							<text>IV: He Also Bears His Cross</text>
+						</navLabel>
+						<content src="text/chapter-5-3-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-384" playOrder="384">
+						<navLabel>
+							<text>V: In the Case of Sand as in That of Woman, There Is a Fineness Which Is Treacherous</text>
+						</navLabel>
+						<content src="text/chapter-5-3-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-385" playOrder="385">
+						<navLabel>
+							<text>VI: The Fontis</text>
+						</navLabel>
+						<content src="text/chapter-5-3-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-386" playOrder="386">
+						<navLabel>
+							<text>VII: One Sometimes Runs Aground When One Fancies That One Is Disembarking</text>
+						</navLabel>
+						<content src="text/chapter-5-3-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-387" playOrder="387">
+						<navLabel>
+							<text>VIII: The Torn Coattail</text>
+						</navLabel>
+						<content src="text/chapter-5-3-8.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-388" playOrder="388">
+						<navLabel>
+							<text>IX: Marius Produces on Some One Who Is a Judge of the Matter, the Effect of Being Dead</text>
+						</navLabel>
+						<content src="text/chapter-5-3-9.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-389" playOrder="389">
+						<navLabel>
+							<text>X: Return of the Son Who Was Prodigal of His Life</text>
+						</navLabel>
+						<content src="text/chapter-5-3-10.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-390" playOrder="390">
+						<navLabel>
+							<text>XI: Concussion in the Absolute</text>
+						</navLabel>
+						<content src="text/chapter-5-3-11.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-391" playOrder="391">
+						<navLabel>
+							<text>XII: The Grandfather</text>
+						</navLabel>
+						<content src="text/chapter-5-3-12.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-392" playOrder="392">
+					<navLabel>
+						<text>Book IV: Javert Derailed</text>
+					</navLabel>
+					<content src="text/book-5-4.xhtml"/>
+					<navPoint id="navpoint-393" playOrder="393">
+						<navLabel>
+							<text>I</text>
+						</navLabel>
+						<content src="text/chapter-5-4-1.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-394" playOrder="394">
+					<navLabel>
+						<text>Book V: Grandson and Grandfather</text>
+					</navLabel>
+					<content src="text/book-5-5.xhtml"/>
+					<navPoint id="navpoint-395" playOrder="395">
+						<navLabel>
+							<text>I: In Which the Tree with the Zinc Plaster Appears Again</text>
+						</navLabel>
+						<content src="text/chapter-5-5-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-396" playOrder="396">
+						<navLabel>
+							<text>II: Marius, Emerging from Civil War, Makes Ready for Domestic War</text>
+						</navLabel>
+						<content src="text/chapter-5-5-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-397" playOrder="397">
+						<navLabel>
+							<text>III: Marius Attacked</text>
+						</navLabel>
+						<content src="text/chapter-5-5-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-398" playOrder="398">
+						<navLabel>
+							<text>IV: Mademoiselle Gillenormand Ends by No Longer Thinking It a Bad Thing That M. Fauchelevent Should Have Entered with Something Under His Arm</text>
+						</navLabel>
+						<content src="text/chapter-5-5-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-399" playOrder="399">
+						<navLabel>
+							<text>V: Deposit Your Money in a Forest Rather Than with a Notary</text>
+						</navLabel>
+						<content src="text/chapter-5-5-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-400" playOrder="400">
+						<navLabel>
+							<text>VI: The Two Old Men Do Everything, Each One After His Own Fashion, to Render Cosette Happy</text>
+						</navLabel>
+						<content src="text/chapter-5-5-6.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-401" playOrder="401">
+						<navLabel>
+							<text>VII: The Effects of Dreams Mingled with Happiness</text>
+						</navLabel>
+						<content src="text/chapter-5-5-7.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-402" playOrder="402">
+						<navLabel>
+							<text>VIII: Two Men Impossible to Find</text>
+						</navLabel>
+						<content src="text/chapter-5-5-8.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-403" playOrder="403">
+					<navLabel>
+						<text>Book VI: The Sleepless Night</text>
+					</navLabel>
+					<content src="text/book-5-6.xhtml"/>
+					<navPoint id="navpoint-404" playOrder="404">
+						<navLabel>
+							<text>I: The 16th of February, 1833</text>
+						</navLabel>
+						<content src="text/chapter-5-6-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-405" playOrder="405">
+						<navLabel>
+							<text>II: Jean Valjean Still Wears His Arm in a Sling</text>
+						</navLabel>
+						<content src="text/chapter-5-6-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-406" playOrder="406">
+						<navLabel>
+							<text>III: The Inseparable</text>
+						</navLabel>
+						<content src="text/chapter-5-6-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-407" playOrder="407">
+						<navLabel>
+							<text>IV: The Immortal Liver</text>
+						</navLabel>
+						<content src="text/chapter-5-6-4.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-408" playOrder="408">
+					<navLabel>
+						<text>Book VII: The Last Draught from the Cup</text>
+					</navLabel>
+					<content src="text/book-5-7.xhtml"/>
+					<navPoint id="navpoint-409" playOrder="409">
+						<navLabel>
+							<text>I: The Seventh Circle and the Eighth Heaven</text>
+						</navLabel>
+						<content src="text/chapter-5-7-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-410" playOrder="410">
+						<navLabel>
+							<text>II: The Obscurities Which a Revelation Can Contain</text>
+						</navLabel>
+						<content src="text/chapter-5-7-2.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-411" playOrder="411">
+					<navLabel>
+						<text>Book VIII: Fading Away of the Twilight</text>
+					</navLabel>
+					<content src="text/book-5-8.xhtml"/>
+					<navPoint id="navpoint-412" playOrder="412">
+						<navLabel>
+							<text>I: The Lower Chamber</text>
+						</navLabel>
+						<content src="text/chapter-5-8-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-413" playOrder="413">
+						<navLabel>
+							<text>II: Another Step Backwards</text>
+						</navLabel>
+						<content src="text/chapter-5-8-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-414" playOrder="414">
+						<navLabel>
+							<text>III: They Recall the Garden of the Rue Plumet</text>
+						</navLabel>
+						<content src="text/chapter-5-8-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-415" playOrder="415">
+						<navLabel>
+							<text>IV: Attraction and Extinction</text>
+						</navLabel>
+						<content src="text/chapter-5-8-4.xhtml"/>
+					</navPoint>
+				</navPoint>
+				<navPoint id="navpoint-416" playOrder="416">
+					<navLabel>
+						<text>Book IX: Supreme Shadow, Supreme Dawn</text>
+					</navLabel>
+					<content src="text/book-5-9.xhtml"/>
+					<navPoint id="navpoint-417" playOrder="417">
+						<navLabel>
+							<text>I: Pity for the Unhappy, but Indulgence for the Happy</text>
+						</navLabel>
+						<content src="text/chapter-5-9-1.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-418" playOrder="418">
+						<navLabel>
+							<text>II: Last Flickerings of a Lamp Without Oil</text>
+						</navLabel>
+						<content src="text/chapter-5-9-2.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-419" playOrder="419">
+						<navLabel>
+							<text>III: A Pen Is Heavy to the Man Who Lifted the Fauchelevent’s Cart</text>
+						</navLabel>
+						<content src="text/chapter-5-9-3.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-420" playOrder="420">
+						<navLabel>
+							<text>IV: A Bottle of Ink Which Only Succeeded in Whitening</text>
+						</navLabel>
+						<content src="text/chapter-5-9-4.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-421" playOrder="421">
+						<navLabel>
+							<text>V: A Night Behind Which There Is Day</text>
+						</navLabel>
+						<content src="text/chapter-5-9-5.xhtml"/>
+					</navPoint>
+					<navPoint id="navpoint-422" playOrder="422">
+						<navLabel>
+							<text>VI: The Grass Covers and the Rain Effaces</text>
+						</navLabel>
+						<content src="text/chapter-5-9-6.xhtml"/>
+					</navPoint>
+				</navPoint>
+			</navPoint>
+		</navPoint>
+		<navPoint id="navpoint-423" playOrder="423">
+			<navLabel>
+				<text>Endnotes</text>
+			</navLabel>
+			<content src="text/endnotes.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-424" playOrder="424">
+			<navLabel>
+				<text>List of Illustrations</text>
+			</navLabel>
+			<content src="text/loi.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-425" playOrder="425">
+			<navLabel>
+				<text>Colophon</text>
+			</navLabel>
+			<content src="text/colophon.xhtml"/>
+		</navPoint>
+		<navPoint id="navpoint-426" playOrder="426">
+			<navLabel>
+				<text>Uncopyright</text>
+			</navLabel>
+			<content src="text/uncopyright.xhtml"/>
+		</navPoint>
+	</navMap>
+</ncx>
